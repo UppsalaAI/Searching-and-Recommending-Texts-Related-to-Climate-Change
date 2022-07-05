@@ -1,6 +1,6 @@
 # recommender_systems
 Master thesis at AFRY, made the spring of 2020. Related report: Searching and recommending texts related to climate change
-
+Author:Karolin Gjöthlén
 How to use the code: <br />
 **training.py** - trains the three methods, this need to be executed first. Change the source and name of the file containing the dataset in the main function. <br />
 **rs.py** - runs the recommender system based on the given source and file name to the input. multiple inputs can be used and are separated by a new line. <br />
